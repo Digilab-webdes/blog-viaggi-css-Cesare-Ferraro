@@ -1,0 +1,22 @@
+Terminare il progetto blog viaggi
+utilizzando i metodi visti a lezione per gli spostamenti degli elementi come: box model, flexbox, position, e aggiungete le variabili nel css per settare una palette di colori, implementare anche le pseudo classi per cambiare lo stile di alcuni elementi quando sono in uno stato specifico, come ad esempio all'hover del button. Caricare il progetto nuovamente su git hub
+
+
+
+Extra:
+
+Terminare, aggiungendo il css, il blog di cucina e caricare il progetto su git hub
+
+
+Pagina INDEX:
+navbar con una lista non ordinata e un immagine per il logo
+header con titolo
+3 card(articoli) per VIAGGI con immagine, sottotitolo e link per andare ad un'altra pagina (ad esempio alla pagina dell'articolo)
+footer(scegliete voi quali elementi inserire in questa sezione)
+Pagina ARTICOLO:
+navbar (come nella pagina index)
+Immagine della destinazione
+Lista con punti dell’itinerario 
+Descrizione del luogo di destinazione
+footer (come nella pagina index)
+
